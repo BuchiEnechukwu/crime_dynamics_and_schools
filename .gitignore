@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+*.csv
+*.xlsx
+*.zip
+*.geojson
+.DS_Store
+Thumbs.db
+.vscode/
